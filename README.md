@@ -7,11 +7,7 @@
 - [Technologies Used](#technologies-used)
     - [Backend (bookify)](#backend-bookify)
     - [Frontend (bookify-ui)](#frontend-bookify-ui)
-- [Learning Objectives](#learning-objectives)
-- [License](#license)
 - [Getting Started](#getting-started)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
